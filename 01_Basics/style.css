@@ -1,0 +1,12 @@
+.header{
+    background-color: orange;
+    padding: 15px;
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu{
+    list-style-type: none;
+}
